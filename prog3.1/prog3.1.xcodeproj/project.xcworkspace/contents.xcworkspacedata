@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../lab02-classes-and-objects-master/prog2.1">
+   </FileRef>
+   <FileRef
+      location = "group:/home/cshome/j/jmann/Downloads/lab03-optionals-and-objects-master/prog3.1/prog3.1/Fraction.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../prog3.1">
+   </FileRef>
+   <FileRef
+      location = "self:prog3.1.xcodeproj">
+   </FileRef>
+</Workspace>
